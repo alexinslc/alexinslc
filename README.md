@@ -1,6 +1,6 @@
 # Hello 👋
 
-### I'm <a href="https://alexinslc.com/"> Alex Lutz</a> currently doing devops stuff @ 🏡 <a href="https://www.homie.com/">Homie</a>.
+### I'm <a href="https://alexinslc.com/"> Alex Lutz</a> currently building the future of Real Estate @ 🏡 <a href="https://www.homie.com/">Homie</a>.
 #### 💡 **Interests:** DevOps, SRE, Systems Engineering, Distributed Systems
 #### ⚡  **Languages :** C#, Go, PowerShell, Ruby
 #### 📚  **Learning:** Go, C#, Distributed Systems, Pulumi
