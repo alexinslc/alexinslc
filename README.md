@@ -10,4 +10,6 @@ I'm <a href="https://alexinslc.com/"> Alex Lutz</a> currently building the futur
 
 <!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=alexinslc/alexinslc) -->
 
-![ViewCount](https://views.whatilearened.today/views/github/alexinslc/views.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexinslc&show_icons=true&&line_height=40)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexinslc&show_icons=true)
+
