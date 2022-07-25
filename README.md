@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm <a href="https://alexinslc.com/"> Alex Lutz</a> currently building the future of Real Estate @ 🏡 <a href="https://www.homie.com/">Homie</a>.
+I'm <a href="https://alexinslc.com/"> Alex Lutz</a> currently building win-loss tech @ <a href="https://www.clozd.com/">Clozd</a>.
 
 * 💡 **Interests:** DevOps, SRE, Systems Engineering, Distributed Systems, and Ruby on Rails
 * ⚡  **Languages :** C#, Go, PowerShell, Ruby
