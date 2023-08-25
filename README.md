@@ -1,10 +1,10 @@
 # Hello 👋
 
-I'm <a href="https://alexinslc.com/"> Alex Lutz</a> currently building win-loss tech @ <a href="https://www.clozd.com/">Clozd</a>.
+I'm <a href="https://alexinslc.com/"> Alex Lutz</a> currently amplifying light @ <a href="https://www.angel.com/">Angel Studios</a>.
 
-* 💡 **Interests:** DevOps, SRE, Systems Engineering, Distributed Systems, and Ruby on Rails
+* 💡 **Interests:** DevOps, FinOps, Cost Optimization, SRE, Systems Engineering, Distributed Systems, and Ruby on Rails
 * ⚡  **Languages :** C#, Go, PowerShell, Ruby
-* 📚  **Learning:** Go, C#, Distributed Systems, Ruby on Rails
+* 📚  **Learning:** Terraform, Terragrunt, Go, C#, Distributed Systems, Ruby on Rails
 * 🎧  **Hobbies :** PC Gaming, Reading, Music
 * 💬  **Connect :** <a href="https://twitter.com/alexinslc">Twitter</a>, <a href="https://dev.to/alexinslc">Dev.to</a>, <a href="https://www.linkedin.com/in/alexlutz/">LinkedIn</a>
 
