@@ -6,7 +6,7 @@ I'm [Alex Lutz](https://alexinslc.com/) — currently DevOps @ [NuvoAir](https:/
 * ⚡ **Languages:** C#, Go, PowerShell, Python, Ruby
 * 🔥 **Strengths:** Leading engineering teams, scaling cloud platforms, driving operational efficiency, and reducing cloud costs
 * 🎧 **Hobbies:** Smoking meat, PC gaming, reading, music
-* 💬 **Connect:** [Twitter](https://twitter.com/alexinslc), [Dev.to](https://dev.to/alexinslc), [LinkedIn](https://www.linkedin.com/in/alexlutz/)
+* 💬 **Connect:** [Twitter](https://twitter.com/alexinslc), [LinkedIn](https://www.linkedin.com/in/alexlutz/)
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=alexinslc/alexinslc) -->
 
