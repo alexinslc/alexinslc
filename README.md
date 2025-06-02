@@ -5,7 +5,7 @@ I'm [Alex Lutz](https://alexinslc.com/) — Founder @ [BrightOps Group](https://
 * 💡 **Focus Areas:** DevOps, FinOps, Cost Optimization, SRE, Platform Engineering, and Cloud Security
 * ⚡ **Languages:** C#, Go, PowerShell, Python, Typescript, Ruby
 * 🔥 **Strengths:** Leading engineering teams, scaling cloud platforms, driving operational efficiency, and reducing cloud costs
-* 🎧 **Hobbies:** Smoking meat, PC gaming, reading, music
+* 🎧 **Hobbies:** Smoking meat, PC gaming, reading, music, and testing out new side hustle ideas
 * 💬 **Connect:** [Twitter](https://twitter.com/alexinslc), [LinkedIn](https://www.linkedin.com/in/alexlutz/)
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=alexinslc/alexinslc) -->
