@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm [Alex Lutz](https://alexinslc.com/) — currently DevOps @ [NuvoAir](https://www.nuvoair.com/).
+I'm [Alex Lutz](https://alexinslc.com/) — Founder @ [BrightOps Group](https://brightopsgroup.com/).
 
 * 💡 **Focus Areas:** DevOps, FinOps, Cost Optimization, SRE, Platform Engineering, and Cloud Security
 * ⚡ **Languages:** C#, Go, PowerShell, Python, Typescript, Ruby
