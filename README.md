@@ -3,7 +3,7 @@
 I'm [Alex Lutz](https://alexinslc.com/) — currently DevOps @ [NuvoAir](https://www.nuvoair.com/).
 
 * 💡 **Focus Areas:** DevOps, FinOps, Cost Optimization, SRE, Platform Engineering, and Cloud Security
-* ⚡ **Languages:** C#, Go, PowerShell, Python, Ruby
+* ⚡ **Languages:** C#, Go, PowerShell, Python, Typescript, Ruby
 * 🔥 **Strengths:** Leading engineering teams, scaling cloud platforms, driving operational efficiency, and reducing cloud costs
 * 🎧 **Hobbies:** Smoking meat, PC gaming, reading, music
 * 💬 **Connect:** [Twitter](https://twitter.com/alexinslc), [LinkedIn](https://www.linkedin.com/in/alexlutz/)
