@@ -2,8 +2,8 @@
 
 I'm [Alex Lutz](https://alexinslc.com/) — Founder @ [BrightOps Group](https://brightopsgroup.com/).
 
-* 💡 **Focus Areas:** Platform Engineering, FinOps, Cost Optimization, SRE, DevOps, and Cloud Security
-* 🔥 **Strengths:** Leading engineering teams, scaling cloud platforms, driving operational efficiency, and reducing cloud costs
+* 💡 **Focus Areas:** Platform Engineering, AI/LLM Infrastructure, FinOps, SRE, DevOps, and Cloud Security — currently building with Claude, OpenClaw, and Hermes on local hardware
+* 🔥 **Strengths:** Leading engineering teams, scaling cloud platforms, applying AI tooling to real operations problems, and driving cost efficiency
 * 🎧 **Hobbies:** Smoking meat, PC gaming, reading, music, and testing out new side hustle ideas
 
 ## Projects
